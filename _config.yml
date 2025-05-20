@@ -31,17 +31,9 @@ github_username:  yagoazedias
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
-lsi: false
-safe: true
 source: ./
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.
